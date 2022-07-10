@@ -17,6 +17,7 @@ Step 3 : In the MainActivity.java file create a dialogue using setTitle() , setM
 Now , run the app.
 
 At first app will look like this
+
 <img width="266" alt="AlertDialogue1" src="https://user-images.githubusercontent.com/63585669/178136554-08367acf-bf15-4ce8-beeb-5c4c96a9580d.png">
 
 
